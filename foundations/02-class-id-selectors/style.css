@@ -1,0 +1,20 @@
+.paragraph-class {
+    background-color: salmon;
+    font-family: "Verdana", "DejaVu Sans" sans-serif;
+    font-size: 18px;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#cool {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth-element {
+    /* reusing the bigger class in our fourth-element id to remove duplication */
+    background-color: lightgreen;
+    font-weight: bold;
+}
